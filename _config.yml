@@ -1,0 +1,50 @@
+url: https://Spurrm.github.io/
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+#theme: jekyll-agency-theme
+title: Welcome To My Website
+email: spurrm@allegheny.edu
+description: "Hello, Welcome to my website. My name is Michael and I'm an Applied Computing: Software Development major at Allegheny College."
+
+
+# Team names, titles and social links
+people:
+- name: Mikey Spurr
+  pic: 4
+  position: Student at Allegheny College
+  social:
+    - title: twitter
+      url: http://twitter.com/_.meekus0916
+    - title: facebook
+      url: http://facebook.com/mspurr3
+    - title: stack-overflow
+      url: https://stackoverflow.com/users/10458243/michael-spurr
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/_.meekus0916
+  - title: facebook
+    url: http://facebook.com/mspurr3
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/spurrm
+  - title: github
+    url: http://github.com/Spurrm
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 842 Eberly cir
+  - line: Hemet, CA 92545
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - agency-jekyll-theme.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
