@@ -2,7 +2,7 @@ url: https://Spurrm.github.io/
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-theme: jekyll-theme-startbootstrap-agency
+remote_theme: laklau/agency-jekyll-theme #jekyll-theme-startbootstrap-agency
 title: Welcome To My Website
 email: spurrm@allegheny.edu
 description: "Hello, Welcome to my website. My name is Michael and I'm an Applied Computing: Software Development major at Allegheny College."
